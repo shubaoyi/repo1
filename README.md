@@ -1,2 +1,2 @@
 # repo1
-This is modification in master branch.
+This is modification in dev branch.
